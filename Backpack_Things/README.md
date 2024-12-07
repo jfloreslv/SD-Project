@@ -1,1 +1,1 @@
-
+Herein the folder are the files used for the backpacks microcontroller to control the servomotor and taking the readings of our sensors, such as the pH and TDS sensor, as well as UART communication for the GPS SAM-M8Q Breakout board. 
