@@ -1,2 +1,2 @@
-#define SECRET_OPTIONAL_PASS ""
-#define SECRET_SSID ""
+#define SECRET_OPTIONAL_PASS "UNLV1234"
+#define SECRET_SSID "Jesus_iPhone12"
