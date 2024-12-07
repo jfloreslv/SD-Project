@@ -1,1 +1,0 @@
-Herein, the code that is used to control the devices mounted onto the backpack itself. This includes contorlling the servo motor, and receiveing data transmission from the sensors onto the Arduino UNO R4. 
